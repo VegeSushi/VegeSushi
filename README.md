@@ -1,16 +1,14 @@
-## Hi there 👋
+## About me
 
-<!--
-**VegeSushi/VegeSushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm VegeSushi, an intermediate level programmer that is still learning
 
-Here are some ideas to get you started:
+### Languages I know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C
+- C++
+
+### Languages I'm learning:
+
+- Zig
+- Python
+- PHP
