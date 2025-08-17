@@ -12,3 +12,4 @@ I'm VegeSushi, an intermediate level programmer that is still learning
 - Zig
 - Python
 - PHP
+- Nim
