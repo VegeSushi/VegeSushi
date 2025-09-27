@@ -1,15 +1,18 @@
-## About me
+# About me
 
 I'm VegeSushi, an intermediate level programmer that is still learning
 
-### Languages I know:
+## Languages I know:
 
 - C
 - C++
+- JavaScript
 
-### Languages I'm learning:
+## Languages I'm learning:
 
-- Zig
-- Python
 - PHP
-- Nim
+- Kotlin
+
+## My website:
+
+[Sushiware](sushiware.online)
